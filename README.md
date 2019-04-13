@@ -1,10 +1,12 @@
 # ReasonReact
 
-Come join us in [Discord](https://discord.gg/reasonml)!
+[![NPM](https://nodei.co/npm/reason-react.png?compact=true)](https://nodei.co/npm/reason-react/)
 
 ```sh
 npm install --save reason-react
 ```
+
+Come join us in [Discord](https://discord.gg/reasonml)!
 
 ## Documentation
 
